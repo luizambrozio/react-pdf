@@ -6978,9 +6978,9 @@ fsevents@^2.1.2:
   languageName: node
   linkType: hard
 
-"react-pdf@workspace:.":
+"react-pdf-pds@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-pdf@workspace:."
+  resolution: "react-pdf-pds@workspace:."
   dependencies:
     "@babel/cli": ^7.8.0
     "@babel/core": ^7.9.0
